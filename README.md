@@ -6,7 +6,7 @@ This is a beautiful To-Do List application created using Swift and Realm framewo
 
 ## Application features
 
-### Home Page
+## Home Page (Category View)
 
 The Home Page contains categories with random colours assgned to it which are persisted even after closing the application. This is the magic of the Realm framework
 
@@ -18,3 +18,48 @@ The Home Page contains categories with random colours assgned to it which are pe
 
 ### Tapping into a Category Cell
 
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/RPReplay_Final1678838969.gif" width="275" height="600">
+
+### Deleting a Category (Using Single-tap feature as well as Slide Feature)
+
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/RPReplay_Final1678839168.gif" width="275" height="600">
+
+
+## Item View
+
+This page contains the list of items associated with a particular category
+
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/IMG_2689.jpg" width="275" height="600">
+
+### Adding a new item to the list
+
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/RPReplay_Final1678838333.gif" width="275" height="600">
+
+### Error Handling (If an item name is empty)
+
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/RPReplay_Final1678838430.gif" width="275" height="600">
+
+### Searching an Item in a list of items
+
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/RPReplay_Final1678839041.gif" width="275" height="600">
+
+### Checkmarking an item if its done
+
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/RPReplay_Final1678838520.gif" width="275" height="600">
+
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/IMG_2690.jpg" width="275" height="600">
+
+### Deleting an Item (Using Single-tap feature as well as Slide Feature)
+
+<img src="https://github.com/gitpushOmnik/CheqOut/blob/main/CheqOut/README%20Images/RPReplay_Final1678838065.gif" width="275" height="600">
+
+### Pods Used
+
+* Realm
+* Chameleon Framework
+* Color Thief
+
+### Libraries Used
+
+* UIKit
+* AVFoundation
